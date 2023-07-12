@@ -1,1 +1,2 @@
-
+User-Friendly file sent with an SQLite database to participants at an Ebesco Seminar to allow users to download the zip folder and run the file with Python.
+This program opens the SQLite database and opens 
